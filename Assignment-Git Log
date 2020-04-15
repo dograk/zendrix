@@ -1,0 +1,4 @@
+root@ip-172-31-30-83:/home/ubuntu/zendrix# git log --oneline --graph --decorate --all
+* 77cb17a (HEAD -> master, origin/master, hotfix) Hotfix
+* 3999cf6 (test, release, feature) Feature Commited
+* 041612e First commit
